@@ -254,7 +254,7 @@
             contenedor-barras {
                position: relative;
                width: 100%;
-               height: 500px;
+               height: 700px;
                overflow: hidden;
             }
             contenedor-barras canvas {
