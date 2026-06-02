@@ -251,4 +251,9 @@
                 padding-top: 0.75rem;
                 letter-spacing: 0.1rem;
             }
+            contenedor-barras {
+               position: relative;
+               width: 100%;
+               height: 550px;
+            }
     
